@@ -3,6 +3,7 @@
 
 Overview
 
+
 This project focuses on in-depth analysis and visualization of COVID-19 data using Python. It covers various aspects such as total cases, deaths, recoveries, active cases, and country-wise trends. The dataset includes information on global and country-specific COVID-19 statistics.
 
 Data Sources
